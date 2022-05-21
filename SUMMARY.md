@@ -1,10 +1,7 @@
 # Table of contents
 
-* [Page 1](README.md)
-* [Page 2](page-2.md)
-* [Page 3](page-3.md)
-* [Page 4](page-4.md)
+* [序言](README.md)
 
-## Group 1
+## 冒险之前
 
-* [Page 5](group-1/page-5.md)
+* [准备指南](mao-xian-zhi-qian/zhun-bei-zhi-nan.md)
