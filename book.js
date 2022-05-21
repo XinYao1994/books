@@ -14,6 +14,7 @@ module.exports = {
         "readme": "README.md"
     },
     "plugins": [
+	"theme-official@2.1.1",
         "-sharing",
         "splitter",
         "expandable-chapters-small",
